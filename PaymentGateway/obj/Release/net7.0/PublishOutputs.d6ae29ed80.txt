@@ -1,0 +1,12 @@
+/Users/davidmac/Documents/PERSONAL_PROYECTS/PublicadoPaymentGateway/PaymentGateway
+/Users/davidmac/Documents/PERSONAL_PROYECTS/PublicadoPaymentGateway/appsettings.Development.json
+/Users/davidmac/Documents/PERSONAL_PROYECTS/PublicadoPaymentGateway/appsettings.json
+/Users/davidmac/Documents/PERSONAL_PROYECTS/PublicadoPaymentGateway/PaymentGateway.dll
+/Users/davidmac/Documents/PERSONAL_PROYECTS/PublicadoPaymentGateway/PaymentGateway.deps.json
+/Users/davidmac/Documents/PERSONAL_PROYECTS/PublicadoPaymentGateway/PaymentGateway.runtimeconfig.json
+/Users/davidmac/Documents/PERSONAL_PROYECTS/PublicadoPaymentGateway/PaymentGateway.pdb
+/Users/davidmac/Documents/PERSONAL_PROYECTS/PublicadoPaymentGateway/Microsoft.AspNetCore.OpenApi.dll
+/Users/davidmac/Documents/PERSONAL_PROYECTS/PublicadoPaymentGateway/Microsoft.OpenApi.dll
+/Users/davidmac/Documents/PERSONAL_PROYECTS/PublicadoPaymentGateway/Swashbuckle.AspNetCore.Swagger.dll
+/Users/davidmac/Documents/PERSONAL_PROYECTS/PublicadoPaymentGateway/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/davidmac/Documents/PERSONAL_PROYECTS/PublicadoPaymentGateway/Swashbuckle.AspNetCore.SwaggerUI.dll
