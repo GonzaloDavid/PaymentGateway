@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/davidmac/Documents/PERSONAL_PROYECTS/expertTeam/Backend/ExperTeamTest/ExperTeamTest/ExperTeamTest.csproj": {}
+    "/Users/davidmac/Documents/PERSONAL_PROYECTS/expertTeam/Backend1/PaymentGateway/ExperTeamTest/ExperTeamTest.csproj": {}
   },
   "projects": {
-    "/Users/davidmac/Documents/PERSONAL_PROYECTS/expertTeam/Backend/ExperTeamTest/ExperTeamTest/ExperTeamTest.csproj": {
+    "/Users/davidmac/Documents/PERSONAL_PROYECTS/expertTeam/Backend1/PaymentGateway/ExperTeamTest/ExperTeamTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/davidmac/Documents/PERSONAL_PROYECTS/expertTeam/Backend/ExperTeamTest/ExperTeamTest/ExperTeamTest.csproj",
+        "projectUniqueName": "/Users/davidmac/Documents/PERSONAL_PROYECTS/expertTeam/Backend1/PaymentGateway/ExperTeamTest/ExperTeamTest.csproj",
         "projectName": "ExperTeamTest",
-        "projectPath": "/Users/davidmac/Documents/PERSONAL_PROYECTS/expertTeam/Backend/ExperTeamTest/ExperTeamTest/ExperTeamTest.csproj",
+        "projectPath": "/Users/davidmac/Documents/PERSONAL_PROYECTS/expertTeam/Backend1/PaymentGateway/ExperTeamTest/ExperTeamTest.csproj",
         "packagesPath": "/Users/davidmac/.nuget/packages/",
-        "outputPath": "/Users/davidmac/Documents/PERSONAL_PROYECTS/expertTeam/Backend/ExperTeamTest/ExperTeamTest/obj/",
+        "outputPath": "/Users/davidmac/Documents/PERSONAL_PROYECTS/expertTeam/Backend1/PaymentGateway/ExperTeamTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/davidmac/.nuget/NuGet/NuGet.Config"

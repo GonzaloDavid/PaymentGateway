@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "12Vlj0kUzbxV6O3tQjSQhxiLRqcIRIjvenzWfNYGGissgbPxGa9fDl4/6Vbst2XYDurrMSSGfCasevbqDfSdfA==",
+  "dgSpecHash": "ME1ZGxlTwyaDLv5ChmjsYzoLSvGP1+3hlsKw5XlJKFPoJ3wD21P12Hv91w6LD64yAD4dmF1SHhQDq/ZdPsdbQQ==",
   "success": true,
-  "projectFilePath": "/Users/davidmac/Documents/PERSONAL_PROYECTS/expertTeam/Backend/ExperTeamTest/ExperTeamTest/ExperTeamTest.csproj",
+  "projectFilePath": "/Users/davidmac/Documents/PERSONAL_PROYECTS/expertTeam/Backend1/PaymentGateway/ExperTeamTest/ExperTeamTest.csproj",
   "expectedPackageFiles": [
     "/Users/davidmac/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/davidmac/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
