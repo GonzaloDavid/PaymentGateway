@@ -19,11 +19,11 @@ namespace ExperTeamTest.Models
 
         public DateTime FechaEmision { get; set; }
 
-        public Decimal Subtotal { get; set; }
+        public decimal Subtotal { get; set; }
 
-        public Decimal Impuesto { get; set; }
+        public decimal Impuesto { get; set; }
 
-        public Decimal Total { get; set; }
+        public decimal Total { get; set; }
 
         //Lista de Guia
         public List<int> guiaList { get; set; }

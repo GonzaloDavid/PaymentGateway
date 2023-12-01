@@ -11,7 +11,7 @@ namespace ExperTeamTest.Models
 
         public string TipoPago { get; set; }
 
-        public int Valor { get; set; }
+        public decimal Valor { get; set; }
 
     }
 }
